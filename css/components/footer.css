@@ -1,0 +1,20 @@
+footer {
+ text-align: center;
+ background-color: rgb(47, 47, 47);
+padding: 20px 0
+}
+
+footer ul li {
+  display: inline;
+  font-size: 50px;
+  margin: 20px;
+  color:gray
+}
+
+footer .fas {
+  color: red;
+}
+
+footer a {
+  color: rgb(29, 29, 248)
+}
